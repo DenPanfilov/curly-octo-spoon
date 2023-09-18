@@ -15,7 +15,7 @@ Jira, qase.io, Postman, Fiddler, Swagger, Trello, SoapUI, Git, Chrome DevTools, 
 Проект 1: тест веб-приложения для учителей от Skyeng
 
 В рамках проекта было необходимо проверить работу веб-приложения для учителей от Skyeng, в частности раздел "Расписание". В него был добавлен новый функционал - "Личные события", который и нужно было протестировать.
->Ссылка на проект: https://qa-bugs-report.atlassian.net/l/cp/AtbciytW
+>[Ссылка](https://docs.google.com/document/d/1DiHGMhb5PfrpUAJs19JVnShavAbMKcw7EnmVGWUhvbQ/edit?usp=sharing) на проект
 
 
 Что нужно было сделать:
