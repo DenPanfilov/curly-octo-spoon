@@ -8,7 +8,7 @@ My QA experience
 
 ## Навыки и технологии
 
-Jira, qase.io, Postman, Fiddler, Swagger, Trello, SoapUI, Git, Chrome DevTools, SQL, PostgeSQL.
+Jira, qase.io, Postman, Fiddler, Swagger, Trello, SoapUI, Git, Chrome DevTools, SQL, PostgeSQL, Charles, Android Studio.
 
 ## Проекты
 
